@@ -17,7 +17,7 @@ se utilizó el borlerplate
 
 **instalar dependencias**
 
-ejecutar desde el directorio raíz:
+desde el directorio raíz ejecutar :
 ```bash
 $ npm install --save
 ```
@@ -25,8 +25,7 @@ $ npm install --save
 
 **correr en ambiente dev**
 
-ejecutar desde el directorio raíz:
-
+desde el directorio raíz ejecutar :
 ```bash
 $ npm start
 ```
